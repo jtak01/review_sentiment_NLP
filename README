@@ -1,0 +1,10 @@
+
+
+The field of Natural Language Processing is a vast one, and certainly an interesting one. 
+I tried various ways to analyze review sentiment based on review texts that were grabbed from the web. 
+Utilizing NLP priciples along with different classifiers I analyzed review sentiment through the bag-of-words and word embeddings approach. 
+
+The work was done on jupyter notebook and a written report was also written regarding my findings. 
+The code will not run as it requires the data itself and it is too large to be uploaded. 
+
+
